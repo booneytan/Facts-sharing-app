@@ -1,3 +1,4 @@
-# Facts Sharing APP
+# Project: Facts Sharing APP
 
-This is a small project that i learn from Udemy. Build a Full-Stack Web App in a weekend
+This is a small project is about building app to share fun facts.
+Upload data into supabase with useEffect.
